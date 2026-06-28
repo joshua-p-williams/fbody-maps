@@ -16,12 +16,10 @@ desktop.ini
 *.cache
 
 # Large raw scan exports - keep selectively using Git LFS if desired
-*.obj
 *.ply
 *.fbx
 *.glb
 *.gltf
-*.mtl
 *.zip
 *.7z
 *.rar
