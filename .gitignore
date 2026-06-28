@@ -1,0 +1,49 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# FreeCAD
+*.FCStd1
+*.FCBak
+*.bak
+
+# Mesh processing scratch
+*.tmp
+*.log
+*.cache
+
+# Large raw scan exports - keep selectively using Git LFS if desired
+*.obj
+*.ply
+*.fbx
+*.glb
+*.gltf
+*.mtl
+*.zip
+*.7z
+*.rar
+
+# Image/video capture dumps
+*.mp4
+*.mov
+*.avi
+
+# Slicer/project machine files
+*.3mf
+*.gcode
+*.bgcode
+
+# Python/tools
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local notes
+local/
+scratch/
+work-in-progress/
+wip/
